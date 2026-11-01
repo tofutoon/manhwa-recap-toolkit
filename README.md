@@ -2,6 +2,8 @@
 
 [![test](https://github.com/tofutoon/manhwa-recap-toolkit/actions/workflows/test.yml/badge.svg)](https://github.com/tofutoon/manhwa-recap-toolkit/actions/workflows/test.yml)
 
+No Python? Use the [browser version](https://tofutoon.com/tools/webtoon-slicer?utm_source=github&utm_medium=readme&utm_campaign=recap_toolkit).
+
 Free Python scripts and prompts for manhwa and webtoon recap creators. Split tall webtoon images into panels at the blank gutters, renumber chapter pages in natural order (2 before 10), and find subtitle cues too long to read aloud.
 
 ![slice_webtoon.py splitting a tall strip into four pages](examples/demo.gif)
