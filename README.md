@@ -1,6 +1,8 @@
-# manhwa-recap-toolkit
+# Manhwa Recap Toolkit
 
-Free scripts and prompts for manhwa and webtoon recap creators: slice tall strips into panels, renumber pages, and find subtitle cues too long to read aloud.
+[![test](https://github.com/tofutoon/manhwa-recap-toolkit/actions/workflows/test.yml/badge.svg)](https://github.com/tofutoon/manhwa-recap-toolkit/actions/workflows/test.yml)
+
+Free Python scripts and prompts for manhwa and webtoon recap creators. Split tall webtoon images into panels at the blank gutters, renumber chapter pages in natural order (2 before 10), and find subtitle cues too long to read aloud.
 
 ![slice_webtoon.py splitting a tall strip into four pages](examples/demo.gif)
 
